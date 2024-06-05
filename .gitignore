@@ -1,0 +1,11 @@
+build
+gmes/constant.py
+gmes/pw_material.py
+src/constant.py
+src/pw_material.py
+*.pyc
+*.so
+*_wrap.cpp
+*.c
+*~
+*#
